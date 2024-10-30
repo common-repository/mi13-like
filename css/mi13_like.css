@@ -1,0 +1,21 @@
+/* 
+mi13_like css 0.1
+*/
+
+.mi13_like>span {
+ padding:0 4px;
+ text-align:center;
+}
+
+.mi13_like_like,.mi13_like_dislike {
+ margin:0 4px;
+}
+
+#mi13_like_up,#mi13_like_down {
+ cursor:pointer;
+}
+
+.mi13_like_note {
+  font-size:small;
+  font-style:italic; 
+}
